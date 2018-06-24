@@ -8,7 +8,5 @@ describe "Hello World" do
     # we are testing this, focus on simply coding your solution.
     expect($stdout).to receive(:puts).with("Hello World!")
     load './hello_world.rb'
-  end
-end
-learn
-lib/Welcome.rb;puts "Welcome to Tic Tac Toe!"
+  
+
